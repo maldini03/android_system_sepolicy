@@ -102,6 +102,7 @@
     statsdw_socket
     statscompanion_service
     storaged_data_file
+    substratum_service
     sysfs_fs_ext4_features
     system_boot_reason_prop
     system_net_netd_hwservice
@@ -127,6 +128,8 @@
     traced_probes_tmpfs
     traced_producer_socket
     traced_tmpfs
+    theme_data_file
+    theme_prop
     untrusted_app_all_devpts
     update_engine_log_data_file
     vendor_default_prop
